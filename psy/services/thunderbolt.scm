@@ -35,10 +35,10 @@
   (service-type
    (name 'bolt)
    (extensions
-    (list (service-extension shepherd-root-service-type
-                             bolt-shepherd-service)
-          (service-extension dbus-root-service-type
+    (list (service-extension dbus-root-service-type
                              (compose list bolt-configuration-package))
+          ;; (service-extension shepherd-root-service-type
+          ;;                    bolt-shepherd-service)
           (service-extension profile-service-type
                              (compose list bolt-configuration-package))))
    (default-value (bolt-configuration))
