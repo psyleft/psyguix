@@ -1,7 +1,7 @@
 # -*- org-make-toc-link-type-fn: org-make-toc--link-entry-github; -*-
 :PROPERTIES:
 :CREATED: [2023-11-10 Fri 18:13]
-:LAST_MODIFIED: [2023-11-10 Fri 18:27]
+:MODIFIED: [2023-12-26 Tue 18:00]
 :END:
 
 #+title: Psyguix
