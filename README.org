@@ -1,0 +1,16 @@
+# -*- org-make-toc-link-type-fn: org-make-toc--link-entry-github; -*-
+:PROPERTIES:
+:CREATED: [2024-02-22 Thu 00:33]
+:MODIFIED: [2024-02-22 Thu 00:33]
+:END:
+
+#+title: Psyguix
+#+author: Connor Clark
+#+email: connor@psyleft.com
+
+Personal Guix channel
+
+* About
+This is my personal collection of recpies for GNU Guix, packaged into a public channel. I make no gaurantees that anything here will work, though I'm probably using it myself. If this doesn't concern you, feel free to add the repository to your ~channels.scm~. Licensing information can be found in the ~LICENSE~ file in the project root. If any of the code here is taken from another source, I make my best effort to indicate that is the case and follow the applicable licensing requirements.
+
+If you have any improvements to suggest please contact me on GitHub or through email at =connor@psyleft.com=.
